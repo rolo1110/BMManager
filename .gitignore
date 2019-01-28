@@ -1,1 +1,3 @@
 ./server/node_modules
+server/node_modules/uuid/index.js
+server/node_modules
